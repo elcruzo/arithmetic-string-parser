@@ -34,7 +34,7 @@ Feel free to customize and integrate this parser into your projects as needed.
 
 ## License
 
-This code is provided under the [MIT License](LICENSE.md). You are free to use, modify, and distribute it in accordance with the terms of the license.
+This code is provided under the [MIT License](LICENSE). You are free to use, modify, and distribute it in accordance with the terms of the license.
 
 ## Contributing
 
